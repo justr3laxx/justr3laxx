@@ -35,6 +35,6 @@
 
 ## 📊 My Stats
 <a href="https://github.com/justr3laxx">
-<img alt="stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=justr3laxx&hide_rank=false&hide_border=true&theme=dark&show_icons=true&count_private=true&custom_title=Stats&rank_icon=github" />
-<img alt="language" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justr3laxx&layout=donut&theme=dark&hide_border=true&custom_title=Programming%20Language" />
+<img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=justr3laxx&hide_rank=false&hide_border=true&theme=dark&show_icons=true&count_private=true&custom_title=Stats&rank_icon=github" />
+<img alt="language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justr3laxx&layout=donut&theme=dark&hide_border=true&custom_title=Programming%20Language" />
 <a/>
