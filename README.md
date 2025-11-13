@@ -1,7 +1,8 @@
 ## Hi, I'm r3lax 👋
 🎓 Computer science Student  
 💻 Full-Stack Developer specializing in Backend Development  
-🎮 Love playing games in my free time
+💡 Interested in exploring new technologies  
+🎮 Love playing games
 
 ## 💻 Tech Stack
 ### 🧠 Languages
@@ -33,8 +34,8 @@
 ### ☁️ Cloud / DevOps
 ![GCP](https://skillicons.dev/icons?i=gcp)
 
-## 📊 My Stats
+## 📊 Statistics
 <a href="https://github.com/justr3laxx">
-<img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=justr3laxx&hide_rank=false&hide_border=true&theme=dark&show_icons=true&count_private=true&custom_title=Stats&rank_icon=github" />
+<img alt="Github Statistic" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=justr3laxx&hide_rank=false&hide_border=true&theme=dark&show_icons=true&count_private=true&custom_title=Github%20Statistic&rank_icon=github" />
 <img alt="language" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justr3laxx&layout=donut&theme=dark&hide_border=true&custom_title=Programming%20Language" />
 <a/>
