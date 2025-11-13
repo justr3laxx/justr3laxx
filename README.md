@@ -1,17 +1,40 @@
-## Hi there 👋
+## Hi, I'm r3lax 👋
+🎓 Computer science Student <br>
+💻 Full-Stack Developer specializing in Backend Development<br>
+🎮 Love playing games in my free time
 
-<!--
-**justr3laxx/justr3laxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
+### 🧠 Languages
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
+![Dart](https://skillicons.dev/icons?i=dart)
+![R](https://skillicons.dev/icons?i=r)
 
-Here are some ideas to get you started:
+### 🌐 Web Technologies
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![My Programming Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-horizontal)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ Frameworks & Tools
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express.js](https://skillicons.dev/icons?i=express)
+![React](https://skillicons.dev/icons?i=react)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![npm](https://skillicons.dev/icons?i=npm)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+### 🗄️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+
+### ☁️ Cloud / DevOps
+![GCP](https://skillicons.dev/icons?i=gcp)
+
+## 📊 My Stats
+<a href="https://github.com/justr3laxx">
+<img alt="stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=justr3laxx&hide_rank=false&hide_border=true&theme=dark&show_icons=true&count_private=true&custom_title=Stats&rank_icon=github" />
+<img alt="language" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justr3laxx&layout=donut&theme=dark&hide_border=true&custom_title=Programming%20Language" />
+<a/>
