@@ -1,6 +1,6 @@
 ## Hi, I'm r3lax 👋
-🎓 Computer science Student <br>
-💻 Full-Stack Developer specializing in Backend Development<br>
+🎓 Computer science Student  
+💻 Full-Stack Developer specializing in Backend Development  
 🎮 Love playing games in my free time
 
 ## 💻 Tech Stack
