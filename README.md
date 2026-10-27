@@ -2,12 +2,12 @@
 🎓 Computer science Student  
 💻 Full-Stack Developer specializing in Backend Development  
 💡 Interested in exploring new technologies  
-🔗 Mostly active on Gitlab
+🔗 Mostly active on Gitlab  
 🎮 Love playing games
 
 ## 💻 Tech Stack
 ### 🧠 Languages
-![C#](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=cs)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
