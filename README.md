@@ -2,11 +2,12 @@
 🎓 Computer science Student  
 💻 Full-Stack Developer specializing in Backend Development  
 💡 Interested in exploring new technologies  
+🔗 Mostly active on Gitlab
 🎮 Love playing games
 
 ## 💻 Tech Stack
 ### 🧠 Languages
-![C](https://skillicons.dev/icons?i=c)
+![C#](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -19,12 +20,14 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 
 ### ⚙️ Frameworks & Tools
+![.NET](https://skillicons.dev/icons?i=dotnet)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![React](https://skillicons.dev/icons?i=react)
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![npm](https://skillicons.dev/icons?i=npm)
 ![Git](https://skillicons.dev/icons?i=git)
+![Gitlab](https://skillicons.dev/icons?i=gitlab)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 ### 🗄️ Databases
